@@ -1,0 +1,23 @@
+# See https://github.com/check-spelling/check-spelling/wiki/Configuration-Examples:-excludes
+(?:^|/)(?i)COPYRIGHT
+(?:^|/)(?i)LICEN[CS]E
+(?:^|/)package(?:-lock|)\.json$
+(?:^|/)vendor/
+ignore$
+\.avi$
+\.ico$
+\.jpe?g$
+\.lock$
+\.map$
+\.min\.
+\.mod$
+\.mp[34]$
+\.png$
+\.wav$
+^pack/font/opendyslexic-regular\.otf$
+^pack/font/opendyslexic-regular\.svg$
+^pack/font/opendyslexic-regular\.ttf$
+^pack/font/opendyslexic-regular\.woff$
+^pack/font/stylesheetBase64\.css$
+^pack/font/stylesheet\.css$
+^\.github/
